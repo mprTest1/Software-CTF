@@ -1,0 +1,7 @@
+Ah, what a classic! (Note: the decompiler will not help you here)
+
+nc cs412.epfl.ch 9018
+
+There are many ways to approach this challenge; some will take half an hour, some will take multiple days. Use your head and think outside the box!
+
+Movs are really slow. This means that the algorithm to check the flag must be, well, extremely simple.

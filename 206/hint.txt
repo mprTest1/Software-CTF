@@ -1,0 +1,3 @@
+ID card renewal is so confusing
+
+nc cs412.epfl.ch 9036

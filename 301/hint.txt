@@ -1,0 +1,3 @@
+it's a tiny vm hihi!!!!! it reads a line, it tells u if it's the flag \o/ ...maybe start with my little sister first, im preeetty tuff >:3
+
+nc cs412.epfl.ch 9042

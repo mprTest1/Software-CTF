@@ -1,0 +1,3 @@
+Hmmm, I feel like there's no way to bypass the canary check here...
+
+nc cs412.epfl.ch 9031

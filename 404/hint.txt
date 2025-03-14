@@ -1,0 +1,3 @@
+Your first heap chall, gives you a lot of freedom to do what you want. Get the flag!
+
+nc cs412.epfl.ch 9004
